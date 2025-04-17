@@ -1,3 +1,4 @@
+accelerate==1.6.0
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1733250440834/work
 certifi==2025.1.31
 charset-normalizer==3.4.1
@@ -16,11 +17,14 @@ huggingface-hub==0.29.3
 idna==3.10
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1737420181517/work
 ipykernel @ file:///D:/bld/ipykernel_1719845595208/work
+ipywidgets==8.1.6
 ipython @ file:///D:/bld/bld/rattler-build_ipython_1741457807/work
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1733300866624/work
 Jinja2==3.1.4
+joblib==1.4.2
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1733440914442/work
 jupyter_core @ file:///D:/bld/jupyter_core_1710257272359/work
+jupyterlab_widgets==3.0.14
 kiwisolver==1.4.8
 MarkupSafe==2.1.5
 matplotlib==3.10.1
@@ -48,6 +52,8 @@ pyzmq @ file:///D:/bld/pyzmq_1741805158588/work
 regex==2024.11.6
 requests==2.32.3
 safetensors==0.5.3
+scikit-learn==1.6.1
+scipy==1.15.2
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
 sympy==1.13.1
@@ -63,4 +69,5 @@ typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_ext
 tzdata==2025.2
 urllib3==2.3.0
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1733231326287/work
+widgetsnbextension==4.0.14
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
